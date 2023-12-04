@@ -1,0 +1,65 @@
+<html>
+<head>
+    <title> página principal </title>
+	</head>
+	
+	<body background="imagemm.jpg">
+	           <!--- cabeçalho-->
+	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<b><a href=""> Página Principal</a></b>&ensp;
+	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+	<b><a href="página_sobre.html"target="blank">Sobre</a></b>&ensp;&ensp;&ensp;
+	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+	&ensp;<b><a href="página_detalhes.html"target="blank">Nossas Linhas </a></b>&ensp;&ensp;&ensp;&ensp;&ensp;
+	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+	&ensp;&ensp;<b><a href="">Cadastro</a></b>
+	              <!--- cabeçalho-->
+				  
+	              <!---rodapé--->
+	
+    <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+	<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br>
+	</br><b><b></br><br><a href="página_sobre.html"target==> Ricardiana Oliveira</a></b>
+	<b><p>Estamos nas redes sociais</p></b>
+	<a href= ""><img src="zap.png" width="30" height="30"center> 
+    <img src="facebook.png" width="30" height="30"center>
+    <img src="instagram.png" width="30" height="30"center>   
+	
+
+	</body>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
